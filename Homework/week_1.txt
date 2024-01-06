@@ -1,0 +1,12 @@
+Docker:
+
+1. Question. Knowing docker tags
+--rm  Automatically remove the container when it exits
+
+2. Question. Understanding docker first run
+What is version of the package wheel ?
+
+0.42.0
+
+3. Question. Count records
+
