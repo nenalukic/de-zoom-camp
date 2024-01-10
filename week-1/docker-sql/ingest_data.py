@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# didn't work so I used the jupyter notebook
+
 import os
 import argparse
 

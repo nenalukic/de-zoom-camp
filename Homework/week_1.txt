@@ -10,4 +10,16 @@ What is version of the package wheel ?
 
 3. Question. Count records
 
+15612
 
+4. Question. Largest trip for each day
+
+2019-09-26
+
+5. Question. The number of passengers
+
+"Brooklyn" "Manhattan" "Queens"
+
+6. Question. Largest tip
+
+JFK Airport
