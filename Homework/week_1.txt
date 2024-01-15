@@ -23,3 +23,12 @@ What is version of the package wheel ?
 6. Question. Largest tip
 
 JFK Airport
+
+7.
+
+google_bigquery_dataset.dataset: Creating...
+google_storage_bucket.data-lake-bucket: Creating...
+google_bigquery_dataset.dataset: Creation complete after 2s [id=projects/terraform-de-411309/datasets/ny_taxi_dataset]
+google_storage_bucket.data-lake-bucket: Creation complete after 3s [id=terraform-de-411309-terra-bucket]
+
+Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
