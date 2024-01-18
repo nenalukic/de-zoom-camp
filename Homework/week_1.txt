@@ -24,7 +24,7 @@ What is version of the package wheel ?
 
 JFK Airport
 
-7.
+7. Creating Resources4
 
 google_bigquery_dataset.dataset: Creating...
 google_storage_bucket.data-lake-bucket: Creating...
