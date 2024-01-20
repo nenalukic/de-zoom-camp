@@ -13,7 +13,9 @@ def load_data_from_api(*args, **kwargs):
     Template for loading data from API
     """
     # List of URLs
-    urls = ['https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-10.parquet', 'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-11.parquet', 'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-12.parquet']
+    urls = ['https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-10.parquet',
+            'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-11.parquet',
+            'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-12.parquet']
 
     # Initialize an empty list to store DataFrames
     dfs = []
