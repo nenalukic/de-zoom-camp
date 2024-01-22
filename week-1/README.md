@@ -67,3 +67,41 @@ pgcli -h localhost -p 5432 -u root -d ny_taxi
    - Running multiple containers simultaneously using `docker-compose up`.
 
 ### All video how to do this you can find here: https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb
+
+6. **Create GCP account:**
+Create a Google Cloud account: https://console.cloud.google.com/
+
+7. **Install Terraform and GCP CLI:**
+Install Terraform: https://www.terraform.io/downloads
+
+Install Google Cloud SDK: https://cloud.google.com/sdk/docs/install-sdk
+
+8. **Deploy & delete GCP resources with Terraform:**
+### Set up GCP credentials:
+
+- Creating and managing service account keys
+
+### Write Terraform configuration files:
+
+- Create a main.tf and variables.tf files with your GCP resources.
+
+- Initialize Terraform and apply changes:
+
+terraform init
+
+terraform apply
+
+- Delete resources when done:
+
+terraform destroy
+
+### Remember to replace placeholders such as your_username, your_password, your_database, your_data.csv, your-gcp-project-id and adjust configurations according to your needs.
+
+## Additional Resources:
+Google Cloud Documentation
+
+Docker Documentation
+
+Pandas Documentation
+
+Terraform Documentation
