@@ -61,3 +61,8 @@
  Week 3: reviewing your peers
 
 
+
+### Course UI
+Alternatively, you can access this course using the provided UI app, the app provides a user-friendly interface for navigating through the course material.
+
+Visit the following link: [DE Zoomcamp UI](https://dezoomcamp.streamlit.app/)
