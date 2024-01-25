@@ -1,4 +1,4 @@
-# de-zoom-camp
+# Data Engineer Zoomcamp
 
 ## Syllabus
 [NYC TLC data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
@@ -60,4 +60,5 @@
 - Week 1 and 2: working on your project
  Week 3: reviewing your peers
 
+<img width="761" alt="curriculum" src="https://github.com/nenalukic/de-zoom-camp/assets/83710854/49d81f96-b7f2-4c8b-b02d-19d182007b09">
 
