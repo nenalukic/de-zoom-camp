@@ -1,0 +1,24 @@
+Question 1:
+What happens when we execute dbt build --vars '{'is_test_run':'true'}' You'll need to have completed the "Build the first dbt models" video.
+
+It applies a limit 100 to all of our models
+
+Question 2:
+What is the distribution between service type filtering by year 2020 data only, as done in the videos?
+
+Homework/st_distribution_2019.png
+
+Question 3:
+What is the code that our CI job will run?
+
+The code from a development branch requesting a merge to main
+
+Question 4:
+What is the count of records in the model fact_fhv_trips after running all dependencies with the test run variable disabled (:false)?
+
+22998722
+
+Question 5:
+What is the service that had the most rides during the month of July 2019 month with the biggest amount of rides after building a tile for the fact_fhv_trips table?
+
+Yellow
