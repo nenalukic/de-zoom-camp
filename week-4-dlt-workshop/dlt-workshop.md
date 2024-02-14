@@ -1,1 +1,1 @@
-Everything about **dlt** workshop from **DEZoomcamp** you can found on my [DLT GitHub](https://github.com/nenalukic/dlt-workshop) repository.
+Everything about **dlt** workshop from **DEZoomcamp** you can find on my [DLT GitHub](https://github.com/nenalukic/dlt-workshop) repository.
