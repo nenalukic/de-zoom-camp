@@ -1,0 +1,1 @@
+The whole project you can find [here](https://github.com/nenalukic/ny-taxi-dbt/tree/main/ny_taxi).
