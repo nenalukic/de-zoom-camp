@@ -1,0 +1,1 @@
+Everything for week 5 you can find in [this repository](https://github.com/nenalukic/batch-process-spark/tree/main).
