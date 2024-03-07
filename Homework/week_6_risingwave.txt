@@ -1,0 +1,24 @@
+Question 1: 
+Create a materialized view to compute the average, min and max trip time between each taxi zone.
+From this MV, find the pair of taxi zones with the highest average trip time.
+
+
+ANSWER: Yorkville East | Steinway     |  86373.000000
+
+Question 2:
+Recreate the MV(s) in question 1, to also find the number of trips for the pair of taxi zones with the highest average trip time.
+
+
+ANSWER: 1
+
+
+Question 3:
+From the latest pickup time to 17 hours before, what are the top 3 busiest zones in terms of number of pickups?
+
+
+ANSWER:      
+     pickup_zone     | num_pickups 
+---------------------+-------------
+ LaGuardia Airport   |          19
+ JFK Airport         |          17
+ Lincoln Square East |          17

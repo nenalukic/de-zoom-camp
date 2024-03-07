@@ -1,0 +1,1 @@
+Everything about **RisingWave** workshop from **DEZoomcamp** you can find on my [risingwave-workshop GitHub](https://github.com/nenalukic/risingwave-workshop) repository.
