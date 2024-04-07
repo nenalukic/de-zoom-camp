@@ -1,0 +1,1 @@
+Everything for week 6 you can find in [this repository](https://github.com/nenalukic/streaming-kafka).

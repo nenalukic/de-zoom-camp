@@ -1,4 +1,7 @@
-# Data Engineer Zoomcamp
+# Data Engineering Zoomcamp 2024
+
+Orginised by [DataTalks.Club](https://datatalks.club/blog/data-engineering-zoomcamp.html).
+DEZoomcamp [GitHub repository](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main).
 
 ## Syllabus
 [NYC TLC data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
